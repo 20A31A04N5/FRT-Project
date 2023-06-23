@@ -8,8 +8,8 @@ This is a web based application developed for health related telugu based websit
 ***project demo video link*** - https://youtu.be/5zusZpswT2c
 
 ### Azure technologies used for Project 
-> Static Web App
-> Health bot
+- Static Web App
+- Health bot
 
 ### Features and Functionalities
 - Interactive and responsive ui.
@@ -34,17 +34,17 @@ This is a web based application developed for health related telugu based websit
 ![Screenshot (81)](https://github.com/20A31A04N5/FRT-Project/assets/124344894/fa5abc8b-28c5-4386-8ea0-64a04add437f)
 
 
-###Appointment - 
+### Appointment - 
 
 ![Screenshot (82)](https://github.com/20A31A04N5/FRT-Project/assets/124344894/9fe229e2-b4a2-454c-8ee2-a415fccb1dab)
 
 
-###Healthbot - 
+### Healthbot - 
 
 ![Screenshot (83)](https://github.com/20A31A04N5/FRT-Project/assets/124344894/e1859a2c-eee7-4133-8419-933a92e09407)
 
 
-###Tech Stack
+### Tech Stack
 - Azure(Hosting)
 - HTML
 - CSS
